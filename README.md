@@ -64,7 +64,12 @@ This project focuses on analyzing pizza sales data using SQL to understand busin
 | 4 | Analyze query outputs |
 
 ---
+## 📈 Key Insights
 
+- Peak ordering hours: Afternoon and evening
+- Highest revenue comes from specific pizza categories
+- A small number of pizzas contribute most of the revenue
+- Sales show clear patterns across time and categories
 ---
 
 ## 💭 Final Thought
@@ -82,4 +87,6 @@ Aspiring Data Analyst
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/alishausman 
 - 💻 GitHub: https://github.com/AlishaUsman  
+## 🧠 Conclusion
 
+_This project demonstrates how SQL can be used to transform raw sales data into actionable insights. It highlights key business trends such as revenue distribution, customer behavior, and product performance._
